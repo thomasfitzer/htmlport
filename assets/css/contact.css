@@ -1,0 +1,19 @@
+#send {
+    position: relative;
+    float: right;
+    margin: 15px 0px 0px 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black
+}
+
+#formemail {
+    margin: 50px 0px 0px 0px;
+}
+
+#conhead {
+    text-align: center;
+    margin: 50px
+
+}
+

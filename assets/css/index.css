@@ -1,0 +1,22 @@
+#profilepic {
+    width: 50%;
+    height: 75%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 100px 0px 0px 0px;
+}
+
+#bodyprofile {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 100px 0px 0px 0px;
+    width: 100%;
+    right: 150px
+}
+
+#abouthead {
+    text-align: center;
+    margin: 50px
+}

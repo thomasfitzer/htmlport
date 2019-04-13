@@ -1,0 +1,10 @@
+#mainimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 600px;
+  position: relative;
+  top: 100px;
+  
+}
